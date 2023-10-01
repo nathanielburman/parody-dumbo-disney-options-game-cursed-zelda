@@ -8,6 +8,39 @@ Start menu option does nothing on a first load.
 The options menu is the only way to proceed. It randomly changes which option will restart the game. Then choose the same option and then go back to the main menu and select start.
 
 
+
+
+new insert
+OPTIONS 
+I never explored an option that I wasn’t supposed to explore 
+the game
+The only way to proceed from the beginning menu is to go through the options menu item.
+
+Your option is randomly selected as the only way to proceed. If that means listening to sound file 13 once then the game proceeds to the character select.
+
+The first character selected is never their character. The second is dead. They partner with the third and the last is their enemy.
+
+Their character select is next, choose genders combinations.
+
+The game will shut off if you don’t select the right combination of the following:
+
+Three trinities to select from.
+
+Trinity dragon heaven earth
+Trinity god father mother son daughter
+Trinity love=love, love=hate, hate=hate
+Trinity mysteries spirit god
+Trinity mother child life
+Trinity mother child death
+Trinity milk chocolate honey
+
+end new insert
+
+
+
+
+
+
 Take a given moment and look at the way the game plays out in the future as it will change your life in ways that will make your life better.
 
 Create spells and prayers and charms. 
